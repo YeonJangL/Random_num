@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Random_num
 {
     static void Main()
     {
